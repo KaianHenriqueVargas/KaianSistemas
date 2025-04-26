@@ -1,0 +1,16 @@
+[
+  {
+    "Nome": "FUCKTHISJOB",
+    "OrigemDestino": {
+      "Origem": "C:\\Users\\TecKa\\OneDrive\\Área de Trabalho\\Library\\Assets\\Resources\\Shared",
+      "Destino": "C:\\Users\\TecKa\\OneDrive\\Área de Trabalho\\FuckThisJob\\Assets\\Resources\\Shared"
+    }
+  },
+  {
+    "Nome": "FUCKTHISJOB",
+    "OrigemDestino": {
+      "Origem": "C:\\Users\\TecKa\\OneDrive\\Área de Trabalho\\Library\\Assets\\Plugins",
+      "Destino": "C:\\Users\\TecKa\\OneDrive\\Área de Trabalho\\FuckThisJob\\Assets\\Plugins"
+    }
+  }
+]
